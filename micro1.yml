@@ -1,0 +1,4 @@
+custom:
+  message: hi from micro1 profile
+server:
+  port: 4321
