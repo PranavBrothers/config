@@ -5,11 +5,11 @@ spring:
   cloud:
     gateway:
       routes:
-      - id: employeeModule
+      - id: micro1Module
         uri: http://localhost:8081/
         predicates:
         - Path=/micro1/**
-      - id: consumerModule
+      - id: micro2Module
         uri: http://localhost:8082/
         predicates:
         - Path=/micro2/**
