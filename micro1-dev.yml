@@ -1,0 +1,8 @@
+ 
+custom:
+  message: hi from micro1 profile
+  encrypted-prop: "{cipher}6421de3d008b7da2ea574adc8f9825e4d408d20ac7cbe55ecbc1102514fed98819c380f43260a6151d5a77c2f437bd28"
+server:
+  port: 1234
+default:
+  message: From Git Repo
