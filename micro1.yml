@@ -4,4 +4,4 @@ custom:
 server:
   port: 4321
 default:
-  message: From Git Repo
+  message: From Git Repo updated
